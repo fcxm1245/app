@@ -1,0 +1,19 @@
+.top-card img:hover {
+			cursor: pointer;
+			transition: transform 0.3s ease;
+            transform: scale(1.4);
+        }
+		#top-card img{
+			 object-fit: cover;
+			 margin: 2.4px;
+			border-top-left-radius: 10px;
+			border-top-right-radius: 10px;
+			border-bottom-left-radius: 10px;
+			border-bottom-right-radius: 10px;
+			width: 120px;
+			height: 114px;
+			/* border: 1px solid red; */
+			transition: height 0.3s ease;
+			background-color: #fff;
+		} 
+		
